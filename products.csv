@@ -1,0 +1,16 @@
+_id,id,image,location,price,space,subject
+63cf6d91525e307676897742,2,img/English.jpg,"Block 5, Class 802",350,4,English
+63cf6d91525e307676897744,4,img/History.jpg,"Block 3, Class 605",250,6,History
+63cf6d91525e307676897746,6,img/Physics.jpg,"Block 9, Physics lab",300,8,Physics
+63cf6d91525e307676897748,8,img/Biology.jpg,"Block 10, Biology Lab",300,6,Biology
+63cf6d91525e307676897749,9,img/Swimming.jpg,"Block 7, Swimming Pool",500,9,Swimming
+63cf6d91525e30767689774c,12,img/ComputerScience.jpg,"Block 8, Computer Lab",175,4,Computer Science
+63cf6d91525e307676897743,3,img/Football.jpg,"Block 6, Field 1",425,8,Football
+63cf6d91525e30767689774b,11,img/Cricket.jpg,"Block 8, Class 207",250,9,Cricket
+63cf6d91525e30767689774f,15,img/Dance.jpg,"Block 7, Dance Studio",350,4,Dance
+63cf6d91525e307676897741,1,img/Math.jpg,"Block 1, Class 108",425,6,Mathmateics
+63cf6d91525e307676897747,7,img/Chemistry.jpg,"Block 4, Chemistry Lab",250,7,Chemistry
+63cf6d91525e307676897745,5,img/Geography.jpg,"Block 1, Geography Lab",375,5,Geography
+63cf6d91525e30767689774a,10,img/Lego.jpg,"Block 2, Robotics Lab",175,6,Lego Robotics
+63cf6d91525e30767689774e,14,img/Music.jpg,"Block 7, Music Room",400,6,Music
+63cf6d91525e30767689774d,13,img/Art.jpg,"Block 5, Art Room",250,5,Art
